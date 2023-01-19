@@ -1,0 +1,3 @@
+## Run
+
+`php artisan serve`
